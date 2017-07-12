@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "codeception/codeception": "^2.3",
+        "codeception/verify": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lic\\calculator\\": "src/"
+        }
+    }
+}
